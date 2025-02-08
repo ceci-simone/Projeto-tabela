@@ -1,0 +1,37 @@
+head{
+    background-color: #ffffff;
+    color: #242020;
+    margin-left: 10px;
+  }
+
+header{
+    height: 150px;
+    background-color: #b91010e0;
+    color:#ffffff;
+    height: 100px;
+}
+header h1, nav{
+    color:#ffffff;
+    margin-left: 10px;
+}
+
+main{
+    background-color:  #ffffff;
+    color: #242020;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+footer {
+    margin-top: 200px;
+    height: 200px;
+    background-color: #b91010e0;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    width: 100%;
+}
+  
+footer p {
+    font-size: 18px;
+    margin-top: 20px ;
+}
